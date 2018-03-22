@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-ga",
+  "name": "cordova-plugin-ga-force-gms-version",
   "version": "1.4.0",
   "description": "Google Universal Analytics Cordova Plugin",
   "scripts": {
@@ -15,7 +15,7 @@
       "ios"
     ]
   },
-  "repository": "ratson/cordova-plugin-ga",
+  "repository": "filipgolonka/cordova-plugin-ga",
   "keywords": [
     "cordova",
     "ga",
